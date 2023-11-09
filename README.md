@@ -8,7 +8,6 @@ The project utilizes an emotion recognition model trained on the FER 2013 datase
 # Features:
 - Real time expression detection and song recommendations.
 - Playlists fetched from Spotify using API.
-- Neumorphism UI for website.
 
 # Running the app:
 Flask: 
